@@ -28,8 +28,8 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |      $$ |
 ##########################################################################*/
 :root {
   /* COLORS */
-  --themeColor1: rgb(96, 62, 207); /* Theme's color 1 */
-  --themeColor2: rgb(80, 51, 173); /* Theme's color 2 */
+  --themeColor1: rgb(62, 81, 207); /* Theme's color 1 */
+  --themeColor2: rgb(51, 55, 173); /* Theme's color 2 */
 
   /* CUSTOM FONT */
   --customFont: 'Quicksand', monospace; /* Custom font, change the name in 'font name here', you must import the font first */
