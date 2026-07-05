@@ -35,11 +35,11 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |      $$ |
   --customFont: 'Quicksand', monospace; /* Custom font, change the name in 'font name here', you must import the font first */
 
   /* HOME BUTTON */
-  --homeImage: url('file:///C:/Users/Selva/Downloads/purp.jpg');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --homeImage: url('https://i.vgy.me/OzYv7W.jpg');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --homeImageSize: cover;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
 
   /* BACKGROUND */
-  --backgroundImage: url('https://i.vgy.me/nRrqd7.jpg');/* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage: url('https://i.vgy.me/XRXFMK.jpg');/* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundColor: rgba(0, 0, 0, 0.6); /* Background color */
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: Cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
