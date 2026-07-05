@@ -62,13 +62,13 @@ The enabled preset by default is an example of how to do this.
   --backgroundCode: #12191d;
 
 /* Purple */  
-  --mainColor: #6900d1;
-  --gradientColor01: #7800f1;
-  --gradientColor02: #bb00c5;
-  --backgroundColor01: #110022; 
+  --mainColor: #0007d1;
+  --gradientColor01: #3000f1;
+  --gradientColor02: #5200c5;
+  --backgroundColor01: #010022; 
   --backgroundColor02: #0a0014;
-  --linkcolor: #6900d1;
-  --backgroundCode: #10021f;
+  --linkcolor: #0003d1;
+  --backgroundCode: #02021f;
 
   /* Better Hljs */
   --backgroundName: rgba(0, 0, 0, .2);
